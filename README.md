@@ -6,7 +6,7 @@
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm install git+http://git.luci.vn/extend-library/converter-payload.git
+$ https://github.com/Nagavikas96/converter-payload.git
 ```
 
 ## Usage
